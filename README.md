@@ -1,4 +1,4 @@
-# not-defined
+# is-not-defined
 
 > checks if foo is not defined, i.e. undefined, null, an empty string, array, object or NaN
 
@@ -9,13 +9,13 @@ This is a fork of [fibo/not-defined](https://github.com/fibo/not-defined) to add
 [Annotated source](#annotated-source) |
 [License](#license)
 
-[![NPM version](https://badge.fury.io/js/is-not-defined.svg)](http://badge.fury.io/js/not-defined)
+[![NPM version](https://badge.fury.io/js/is-not-defined.svg)](http://badge.fury.io/js/is-not-defined)
 [![KLP](https://img.shields.io/badge/kiss-literate-orange.svg)](http://g14n.info/kiss-literate-programming)
 
 ## Installation
 
 ```bash
-npm install not-defined
+npm install is-not-defined
 ```
 
 ## Usage
@@ -48,7 +48,7 @@ if (no(foo)) {
 }
 ```
 
-Follows a list of [tested examples](https://github.com/fibo/not-defined/blob/master/test.js)
+Follows a list of [tested examples](https://github.com/incorrupt/is-not-defined/blob/master/test.js)
 
 ```javascript
 no(); // true
