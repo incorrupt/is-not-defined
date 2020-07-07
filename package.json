@@ -5,15 +5,14 @@
   "author": {
     "name": "Romain Barissat"
   },
-  "main": "not-defined.js",
+  "main": "is-not-defined.js",
   "types": "index.d.ts",
   "files": [
-    "not-defined.js",
+    "is-not-defined.js",
     "index.d.ts"
   ],
   "scripts": {
     "build": "make",
-    "postversion": "git push origin v${npm_package_version}; npm publish; git push origin master",
     "test": "NODE_PATH=. node test"
   },
   "repository": {
