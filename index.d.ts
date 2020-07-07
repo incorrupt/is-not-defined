@@ -1,3 +1,3 @@
-declare module 'not-defined' {
-  export default function notDefined(any): boolean;
+declare module "is-not-defined" {
+  export default function isNotDefined(any): boolean;
 }
