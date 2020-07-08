@@ -1,6 +1,6 @@
 {
   "name": "is-not-defined",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checks if foo is not defined, i.e. undefined, null, an empty string, array, object or NaN",
   "author": {
     "name": "Romain Barissat"
